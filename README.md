@@ -5,6 +5,10 @@ Instructor: Peter McHale
 Course webpage: https://eee.uci.edu/17f/44635
 
 ## Getting set up 
+
+Note: it may be helpful to develop some familiarity with the 'command line'. 
+Your TA will help you with this. 
+
 Install Python and Jupyter by installing 
 [Anaconda](https://www.continuum.io/downloads) (Python 3.x version).
  Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
@@ -23,7 +27,7 @@ twice at the command prompt.
 
 If Jupyter complains that a specific package is missing when you 
 run your notebook, then return to the command line, execute 
-`conda install <name of package>`, and re-run the notebook. 
+`conda install <name of package>`, and re-run the offending notebook cell. 
 
 
 ## Schedule
