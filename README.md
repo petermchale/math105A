@@ -1,4 +1,4 @@
-# Math 105A Numerical analysis 
+# Math 105A Numerical Analysis 
 
 Instructor: Peter McHale 
 
