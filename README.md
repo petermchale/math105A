@@ -9,13 +9,13 @@ Install Python and Jupyter by installing
 [Anaconda](https://www.continuum.io/downloads) (Python 3.x version).
  Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
 
-If you are working at a lab computer, which already has python and jupyter installed, then 
+If you are working at a lab computer, which already has Python and Jupyter installed, then 
 type `python --version` at the command prompt to confirm that Python 3.x is installed.
 If the Python version reported is not 3.x, then you should [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
 Your TA will help you with this. 
 
-Open a jupyter notebook by navigating to the directory in which the notebook
-is located and opening it by typing `Jupyter notebook <notebook name>` at the 
+Open a Jupyter notebook by navigating to the directory in which the notebook
+is located and opening it by typing `jupyter notebook <notebook name>` at the 
 command prompt. 
 
 If jupyter complains that a specific package is missing when you 
