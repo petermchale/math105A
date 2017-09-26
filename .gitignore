@@ -4,3 +4,5 @@ texts
 *__pycache*
 *.ipynb_checkpoints*
 *.webloc*
+*.pages
+*rtf
