@@ -6,8 +6,6 @@ Course webpage: https://eee.uci.edu/17f/44635
 
 ## Getting set up 
 
-<script src="https://gist.github.com/petermchale/f5a147e65cc210dd903813e181ff11f3.js"></script>
-
 Note: in what follows, it may be helpful to develop some familiarity with the 'command line'. 
 Your TA will help you with this. 
 
