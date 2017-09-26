@@ -6,7 +6,7 @@ Course webpage: https://eee.uci.edu/17f/44635
 
 ## Getting set up 
 Install Python and Jupyter by installing 
-[Anaconda](https://www.continuum.io/downloads).
+[Anaconda](https://www.continuum.io/downloads) (Python 3.x version).
  Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
 
 If you are working at a lab computer, which already has python and jupyter installed, then 
