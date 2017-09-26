@@ -18,7 +18,10 @@ Open a Jupyter notebook by navigating to the directory in which the notebook
 is located and opening it by typing `jupyter notebook <notebook name>` at the 
 command prompt. 
 
-If jupyter complains that a specific package is missing when you 
+Once you’re finished editing/running your notebook, press `ctrl c`
+twice at the command prompt.
+
+If Jupyter complains that a specific package is missing when you 
 run your notebook, then return to the command line, execute 
 `conda install <name of package>`, and re-run the notebook. 
 
