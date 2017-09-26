@@ -5,10 +5,13 @@ Instructor: Peter McHale
 Course webpage: https://eee.uci.edu/17f/44635
 
 ## Getting set up 
-Install Python by installing 
+Install Python and Jupyter by installing 
 [Anaconda](https://www.continuum.io/downloads).
-Type `python --version` at the command prompt to confirm that Python 3 is installed.
-If the Python version reported is not 3.x (e.g. lab computers may have an older version of Python pre-installed), then you should [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
+ Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
+
+If you are working at a lab computer, which already has python and jupyter installed, then 
+type `python --version` at the command prompt to confirm that Python 3 is installed.
+If the Python version reported is not 3.x, then you should [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
 Your TA will help you with this. 
 
 ## Schedule
