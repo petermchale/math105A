@@ -5,8 +5,8 @@ Instructor: Peter McHale
 Course webpage: https://eee.uci.edu/17f/44635
 
 ## Getting set up 
-We will be using Python 3. 
-The best way to install Python is to install [Anaconda](https://www.continuum.io/downloads).
+Install Python by installing 
+[Anaconda](https://www.continuum.io/downloads).
 Type `python --version` at the command prompt to confirm that Python 3 is installed.
 If the Python version reported is not 3.x (e.g. because you are working 
 on a lab computer), then you should [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
