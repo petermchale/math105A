@@ -1,0 +1,6 @@
+texts 
+
+.DS*
+*__pycache*
+*.ipynb_checkpoints*
+*.webloc*
