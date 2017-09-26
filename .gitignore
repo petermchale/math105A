@@ -1,6 +1,7 @@
 syllabus
 texts 
 
+*.m
 .DS*
 *__pycache*
 *.ipynb_checkpoints*
