@@ -14,8 +14,8 @@ type `python --version` at the command prompt to confirm that Python 3.x is inst
 If the Python version reported is not 3.x, then you should [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
 Your TA will help you with this. 
 
-Open a Jupyter notebook by navigating to the directory in which the notebook
-is located and opening it by typing `jupyter notebook <notebook name>` at the 
+Open a Jupyter notebook by navigating to the directory in which it is located 
+and typing `jupyter notebook <notebook name>` at the 
 command prompt. 
 
 Once you’re finished editing/running your notebook, press `ctrl c`
