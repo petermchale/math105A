@@ -18,6 +18,10 @@ Open a jupyter notebook by navigating to the directory in which the notebook
 is located and opening it by typing `Jupyter notebook <notebook name>` at the 
 command prompt. 
 
+If you need to install additional python packages, 
+execute `conda install <name of package>` at the command line. 
+
+
 ## Schedule
 In the table below, `Sections` refers to sections of *Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition*
 
