@@ -4,7 +4,7 @@ Instructor: Peter McHale
 
 Course webpage: https://eee.uci.edu/17f/44635
 
-“Sections” refers to sections of Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition
+In the table below, the heading `Sections` refers to sections of *Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition*
 
 
 |Wk|Date|Lec|Sections|Topics
