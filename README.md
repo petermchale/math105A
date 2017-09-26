@@ -18,7 +18,7 @@ Open a Jupyter notebook by navigating to the directory in which it is located
 and typing `jupyter notebook <notebook name>` at the 
 command prompt. 
 
-Once you’re finished editing/running your notebook, press `ctrl c`
+Once you’re finished editing/running your notebook, press `ctrl-c`
 twice at the command prompt.
 
 If Jupyter complains that a specific package is missing when you 
