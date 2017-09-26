@@ -4,6 +4,10 @@ Instructor: Peter McHale
 
 Course webpage: https://eee.uci.edu/17f/44635
 
+## Getting set up 
+We will be using Python 3. 
+The best way to install Python is to install [Anaconda](https://www.continuum.io/downloads)
+
 ## Schedule
 In the table below, `Sections` refers to sections of *Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition*
 
