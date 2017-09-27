@@ -1,4 +1,4 @@
-# Using these Jupyter notebooks as slides
+# Using these Jupyter notebooks as live presentations 
 
 These notebooks were created using [RISE](https://github.com/damianavila/RISE),
  a Jupyter extension that 
