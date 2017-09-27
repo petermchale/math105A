@@ -2,6 +2,7 @@ temp
 syllabus
 texts 
 
+.idea*
 *.m
 .DS*
 *__pycache*
