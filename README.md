@@ -4,7 +4,7 @@ Instructor: Peter McHale
 
 Course webpage: https://eee.uci.edu/17f/44635
 
-## Getting set up 
+## Getting set up for the Lab section
 
 Note: in what follows, it may be helpful to develop some familiarity with the 'command line'. 
 Your TA will help you with this. 
