@@ -1,4 +1,3 @@
-temp
 syllabus
 texts 
 
@@ -8,4 +7,4 @@ texts
 *.ipynb_checkpoints*
 *.webloc*
 *.pages
-*rtf
+*.rtf
