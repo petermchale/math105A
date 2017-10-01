@@ -6,6 +6,8 @@ To see the math rendered correctly, go to
 There you'll see a search field. Paste
 the URL of the github notebook into the search field.
 nbviewer will render the notebook, math and all.
+For your convenience, I'll provide links to the nbviewer-version of each 
+lecture in this [README](../README.md). 
 
 # Interacting with the lecture notebooks
 
