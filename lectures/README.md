@@ -7,7 +7,7 @@ There you'll see a search field. Paste
 the URL of the github notebook into the search field.
 nbviewer will render the notebook, math and all.
 For your convenience, I'll provide links to the nbviewer-version of each 
-lecture in the Schedule located at [this README](../README.md#Schedule). 
+lecture in the Schedule located at [this README](../README.md#schedule). 
 
 # Interacting with the lecture notebooks
 
