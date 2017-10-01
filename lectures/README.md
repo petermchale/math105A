@@ -15,7 +15,7 @@ open the notebook in GitHub,
 click on the `Raw` button, 
 and right-click `Save Page As...`.
 
-# Using these Jupyter notebooks as live presentations (optional)
+# Using these Jupyter notebooks as live presentations (for those interested)
 
 These notebooks were created using [RISE](https://github.com/damianavila/RISE),
  a Jupyter extension that 
