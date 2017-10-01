@@ -36,6 +36,8 @@ This course is adapted from [Tom Trogdon's course](https://www.math.uci.edu/~ttr
 ## Schedule
 In the table below, `Sections` refers to sections of *Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition*
 
+Click on the links to see nbviewer-rendered versions of the lecture. 
+
 |Wk|Date|Lec|Sections|Topics
 |---|---|---|---|---
 |0|9/29|1|1.1|[Review of calculus](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture1.ipynb)
