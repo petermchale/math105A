@@ -24,9 +24,10 @@ Alternatively, you could
 However, I am not sure that this environment will persist between login sessions. 
 Your TA will help you with this. 
 
-Open a Jupyter notebook by navigating to the directory in which it is located 
+Open a Jupyter notebook by navigating to the directory in which it is located (the `cd` command is useful here, 
+as is the `ls` command in `Terminal` or equivalently, the `dir` command in Windows)
 and typing `jupyter notebook <notebook name>` at the 
-command prompt. 
+command prompt. Seek out the TA for help.
 
 Once you’re finished editing/running your notebook, press `ctrl-c`
 twice at the command prompt.
