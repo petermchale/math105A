@@ -26,8 +26,10 @@ Your TA will help you with this.
 
 Open a Jupyter notebook by navigating to the directory in which it is located (the `cd` command is useful here, 
 as is the `ls` command in `Terminal` or equivalently, the `dir` command in Windows)
-and typing `jupyter notebook <notebook name>` at the 
-command prompt. Seek out the TA for help.
+and typing `jupyter notebook` at the 
+command prompt. 
+A tab will open in your browser revealing the contents of the current directory. 
+Seek out the TA for help.
 
 Once you’re finished editing/running your notebook, press `ctrl-c`
 twice at the command prompt.
