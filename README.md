@@ -7,15 +7,21 @@ Course webpage: https://eee.uci.edu/17f/44635
 ## Getting set up for the Lab section
 
 Note: in what follows, it may be helpful to develop some familiarity with the 'command line'. 
+On a Mac, this is done via the `Terminal` app. On the lab (Windows) machines,
+this is done via Start -> Anaconda Prompt (type this into the search field to locate the program).      
 Your TA will help you with this. 
 
-Install Python and Jupyter by installing 
+If on your own machine, install Python and Jupyter by installing 
 [Anaconda](https://www.continuum.io/downloads) (Python 3.x version).
  Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
 
 If you are working at a lab computer, which already has Python and Jupyter installed, then 
-type `python --version` at the command prompt to confirm that Python 3.x is installed.
-If the Python version reported is not 3.x, then you should [create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
+type `python --version` at the command prompt to 
+check the version of Python that is installed. It will probably say Python 2.x. I am using Python 3.x. 
+The differences are not large, so you could go ahead and use Python 2.x. 
+Alternatively, you could 
+[create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
+However, I am not sure that this environment will persist between login sessions. 
 Your TA will help you with this. 
 
 Open a Jupyter notebook by navigating to the directory in which it is located 
