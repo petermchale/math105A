@@ -4,7 +4,7 @@ Instructor: Peter McHale
 
 Course webpage: https://eee.uci.edu/17f/44635
 
-## Getting set up for the Lab section
+## Getting set up for the Lab section (the software below is FREE!)
 
 In what follows, you will need to access the 'command line'. 
 On a Mac, this is done by opening the `Terminal` app. On the lab (Windows) machines,
