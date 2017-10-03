@@ -41,7 +41,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |Wk|Date|Lec|Sections|Topics
 |---|---|---|---|---
 |0|9/29|1|1.1|[Review of calculus](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture1.ipynb)
-|1|10/2|2|1.2|Round-off errors and computer arithmetic
+|1|10/2|2|1.2|[Round-off errors and computer arithmetic](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture2.ipynb)
 ||10/4|3|2.1|Bisection Method
 ||10/6|4|2.2|Fixed-point iteration
 |2|10/9|5|2.3|Newton’s method
