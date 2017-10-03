@@ -8,7 +8,7 @@ Course webpage: https://eee.uci.edu/17f/44635
 
 In what follows, you will need to access the 'command line'. 
 On a Mac, this is done by opening the `Terminal` app. On the lab (Windows) machines,
-this is done via Start -> Anaconda Prompt (type this into the search field to locate the program).      
+this is done via Start -> Anaconda Prompt (type this into the search field to locate the program). 
 Your TA will help you with this. 
 
 If on your own machine, install Python and Jupyter by installing 
