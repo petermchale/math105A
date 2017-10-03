@@ -6,8 +6,8 @@ Course webpage: https://eee.uci.edu/17f/44635
 
 ## Getting set up for the Lab section
 
-In what follows, it is helpful to develop some familiarity with the 'command line'. 
-On a Mac, this is done via the `Terminal` app. On the lab (Windows) machines,
+In what follows, you will need to access the 'command line'. 
+On a Mac, this is done by opening the `Terminal` app. On the lab (Windows) machines,
 this is done via Start -> Anaconda Prompt (type this into the search field to locate the program).      
 Your TA will help you with this. 
 
