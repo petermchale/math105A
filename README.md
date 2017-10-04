@@ -42,7 +42,7 @@ This course is adapted from [Tom Trogdon's course](https://www.math.uci.edu/~ttr
 
 ## Schedule
 In the table below, `Sections` refers to sections of *Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition*. 
-Not compulsory reading, but I also like: 
+I like: 
 [Scientific Computation: Python Hacking for Math Junkies](http://calculuscastle.com/pythonbook.html), by B. Shapiro.
 
 Click on the links to see nbviewer-rendered versions of the lecture. 
