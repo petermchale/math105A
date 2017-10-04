@@ -10,13 +10,14 @@ nbviewer will render the notebook, math and all.
 For your convenience, I'll provide links to the nbviewer-version of each 
 lecture in the [course schedule](../README.md#schedule). 
 
-# Interacting with the lecture notebooks
+# Downloading files
 
-In lab, we will learn how to view, edit and run Jupyter notebooks. 
-To download Jupyter notebooks from this site, 
-open the notebook in GitHub, 
-click on the `Raw` button, 
+To download files from this site,
+open the file in GitHub,
+click on the `Raw` button,
 and right-click `Save Page As...`.
+Make sure the file is saved with the correct filename extension.
+For example, the extension in the filename `libmath9.py` is `.py`.  (You may need to set the `Format` dropdown in your download dialog box to `Page Source` and edit the file name in the dialog box to have the correct filename extension.)
 
 # Using these Jupyter notebooks as live presentations (for those interested)
 
