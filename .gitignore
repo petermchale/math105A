@@ -1,5 +1,6 @@
 temp
 syllabus
+piazza
 texts 
 
 .idea*
@@ -10,4 +11,3 @@ texts
 *.webloc*
 *.pages
 *.rtf
-*.pdf
