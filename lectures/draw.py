@@ -29,4 +29,17 @@ def graph_function(f, precision=300, x1=-1, x2=1, y1=-1, y2=1):
     plt.axis((x1,x2,y1,y2))
     plt.plot(arx, ary)
     plt.show()
- 
+
+def graph_two_functions(f1, f2, precision=300, x1=-1, x2=1, y1=-1, y2=1):
+    arx = np.fromfunction(lambda i: ((i-precision/2)/precision*2), (precision, ))
+    ary1 = np.vectorize(f1)(arx) 
+    ary2 = np.vectorize(f2)(arx) 
+
+    fig = plt.figure(figsize=(8, 6))
+    ax = fig.add_subplot(111)
+    ax.tick_params(labelsize=16)
+
+    plt.axis((x1,x2,y1,y2))
+    plt.plot(arx, ary1)
+    plt.plot(arx, ary2)
+    plt.show()
