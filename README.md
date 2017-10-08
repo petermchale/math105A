@@ -36,6 +36,8 @@ If Jupyter complains that a specific package is missing when you
 run your notebook, then return to the command line, execute
 `conda install <name of package>`, and re-run the offending notebook cell.
 
+PLEASE BRING USB DRIVE TO LAB TO SAVE YOUR WORK. 
+
 ## Acknowledgements 
 
 This course is adapted from [Tom Trogdon's course](https://www.math.uci.edu/~ttrogdon/105A/html/MATH105A.html).
