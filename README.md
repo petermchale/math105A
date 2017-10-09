@@ -55,7 +55,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |1|10/2|2|1.2|[Round-off errors and computer arithmetic](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture2.ipynb)
 ||10/4|3|2.1|[Bisection Method](https://github.com/petermchale/math105A/blob/master/lectures/Lecture3.ipynb)
 ||10/6|4|2.2|[Fixed-point iteration](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture4.ipynb)
-|2|10/9|5|2.3|Newton’s method
+|2|10/9|5|2.3|[Newton’s method](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture5.ipynb)
 ||10/11|6|2.4/2.5|Error analysis/Convergence
 ||10/13|7|2.6|Zeros of polynomials
 |3|10/16|8|6.1|Gaussian elimination
