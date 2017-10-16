@@ -1,5 +1,7 @@
 # Instructions
 
+## Downloading 
+
 Click on the relevant homework assignment, 
 press the `Download` button, 
 uncompress the [zip file](https://en.wikipedia.org/wiki/Zip_(file_format)) 
