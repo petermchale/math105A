@@ -13,6 +13,9 @@ Open the file in GitHub (by clicking on it),
 press the `Raw` button, 
 right-click `Save Page As`, 
 navigate to the directory where you saved the file.
+Make sure the file is saved with the correct filename extension.
+For example, the extension in the filename 
+`HW02.ipynb` is `.ipynb`.
 
 ## Completing and submitting
 
