@@ -64,7 +64,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||10/18|9|6.1|Algorithm complexity
 ||10/20|10|6.1, .2|[Algorithmic deficiencies of Gaussian elimination](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture10.ipynb)
 |4|10/23|11|6.2|Pivoting strategies 
-||10/25|12|6.3-6.4|Matrix Inversion; Determinants
+||10/25|12|6.3-6.4|Determinants
 ||10/27|13|6.5|LU factorization
 |5|10/30|14|6.6|Other factorizations
 ||11/1|||Review of previous exams
