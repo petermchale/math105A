@@ -53,14 +53,14 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 
 |Wk|Date|Lec|Sections|Topics
 |---|---|---|---|---
-|0|9/29|1|1.1|[Review of calculus](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture1.ipynb)
-|1|10/2|2|1.2|[Round-off errors and computer arithmetic](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture2.ipynb)
-||10/4|3|2.1|[Bisection Method](https://github.com/petermchale/math105A/blob/master/lectures/Lecture3.ipynb)
-||10/6|4|2.2|[Fixed-point iteration](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture4.ipynb)
-|2|10/9|5|2.3|[Newton’s method](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture5.ipynb)
-||10/11|6|2.4|[Error analysis/Convergence](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture6.ipynb)
-||10/13|7|2.6|[Zeros of polynomials](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture7.ipynb)
-|3|10/16|8|6.1|[Gaussian elimination](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture8.ipynb)
+|0|9/29|1|1.1|[Review of calculus](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture01.ipynb)
+|1|10/2|2|1.2|[Round-off errors and computer arithmetic](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture02.ipynb)
+||10/4|3|2.1|[Bisection Method](https://github.com/petermchale/math105A/blob/master/lectures/Lecture03.ipynb)
+||10/6|4|2.2|[Fixed-point iteration](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture04.ipynb)
+|2|10/9|5|2.3|[Newton’s method](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture05.ipynb)
+||10/11|6|2.4|[Error analysis/Convergence](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture06.ipynb)
+||10/13|7|2.6|[Zeros of polynomials](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture07.ipynb)
+|3|10/16|8|6.1|[Gaussian elimination](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture08.ipynb)
 ||10/18|9|6.1|Algorithm complexity
 ||10/20|10|6.1, .2|[Algorithmic deficiencies of Gaussian elimination](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture10.ipynb)
 |4|10/23|11|6.2|Pivoting strategies 
