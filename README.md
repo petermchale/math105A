@@ -14,8 +14,12 @@ Your TA will help you with this.
 If on your own machine, install Python and Jupyter by installing
 [Anaconda](https://www.continuum.io/downloads) (Python 3.x version).
  Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
-Please
-[create a conda environment using Python 2.x](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
+Please type
+```
+conda create -n math105A python=2 ipython-notebook --yes
+```
+at the Terminal (Mac) or Anaconda (Windows) prompt to create a conda environment using Python 2. Then
+[activate the environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
 Your TA will help you with this.
 
 If you are working at a lab computer, which already has Python and Jupyter installed, then
