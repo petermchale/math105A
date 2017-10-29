@@ -3,6 +3,7 @@ syllabus
 piazza
 texts 
 
+*.doc*
 .idea*
 *.m
 .DS*
