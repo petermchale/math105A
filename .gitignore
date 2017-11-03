@@ -3,6 +3,10 @@ syllabus
 piazza
 texts 
 
+*.aux* 
+*.tex* 
+*.gz* 
+*.log*
 *.doc*
 .idea*
 *.m
