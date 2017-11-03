@@ -1,0 +1,195 @@
+% Exam Template for UMTYMP and Math Department courses
+% http://mathcep.umn.edu/umtymp/
+%
+% Using Philip Hirschhorn's exam.cls: http://www-math.mit.edu/~psh/#ExamCls
+%
+% run pdflatex on a finished exam at least three times to do the grading table on front page.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% These lines can probably stay unchanged, 
+\documentclass[addpoints,11pt]{exam}
+\RequirePackage{amssymb, amsfonts, amsmath, latexsym, verbatim, xspace, setspace}
+% you can remove these two lines if you're not making pictures with tikz.
+\RequirePackage{tikz}
+\usetikzlibrary {plotmarks}
+
+% By default LaTeX uses large margins.  This doesn't work well on exams; problems
+% end up in the "middle" of the page, reducing the amount of space for students
+% to work on them.
+\usepackage[margin=1in]{geometry}
+
+
+% Here's where you edit the Class, Exam, Date, etc.
+\newcommand{\class}{Math 105A}
+\newcommand{\term}{Fall 2017}
+\newcommand{\examnum}{Midterm Exam}
+\newcommand{\examdate}{Fri Nov 3 2017}
+\newcommand{\examtime}{12.00pm}
+
+% For an exam, single spacing is most appropriate
+\singlespacing
+% \onehalfspacing
+% \doublespacing
+
+% For an exam, we generally want to turn off paragraph indentation
+\parindent 0ex
+
+\begin{document} 
+
+% These commands set up the running header on the top of the exam pages
+\pagestyle{head}
+\firstpageheader{}{}{}
+\runningheader{\class}{\examnum\ - Page \thepage\ of \numpages}{\examdate}
+\runningheadrule
+
+\begin{flushright}
+\begin{tabular}{p{2.8in} r l}
+\textbf{\class} & \textbf{Student's Name (Print):} & \makebox[1.5in]{\hrulefill}\\
+\term & &\\
+\examnum &\textbf{Student's ID:} & \makebox[1.5in]{\hrulefill}\\
+\examdate &&\\
+\examtime &  \textbf{Discussion Section Code:} & \makebox[1.5in]{\hrulefill}
+\end{tabular}\\
+\end{flushright}
+\rule[1ex]{\textwidth}{.1pt}
+
+{\bf Print your name and student ID on the top of this page.} \\
+
+This exam contains \numpages\ pages (including this cover page) and
+\numquestions\ problems. 
+% {\bf Note that some equations are numbered.}  
+You may \textit{not} use your books, notes, or any calculator in this exam. Do not write in the grading table below.\\
+
+The following rules apply to the answers you provide in this exam:
+
+\begin{minipage}[t]{3.7in}
+\vspace{0pt}
+\begin{itemize}
+
+\item \textbf{Organize your work}, in a neat and coherent way.   
+
+\item \textbf{Unsupported answers will not receive full credit}.  Calculation or verbal explanation is expected. 
+
+\item \textbf{If you need more space, use the back of the pages}; clearly indicate when you have done this.
+
+\item \textbf{Box your final answer} for full credit. 
+
+\end{itemize}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{2.3in}
+\vspace{0pt}
+\gradetable[v]%[pages]  % Use [pages] to have grading table by page instead of question
+\end{minipage}
+
+\newpage % End of cover page
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% See http://www-math.mit.edu/~psh/#ExamCls for full documentation, but the questions
+% below give an idea of how to write questions [with parts] and have the points
+% tracked automatically on the cover page.
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{questions} 
+
+\question
+\begin{parts} 
+\part[5]
+Consider the sequence $\{ p_n \}$ defined by 
+\[
+p_n = \sum_{k=1}^n \frac{1}{k}.
+\]
+This sequence diverges (to see this intuitively note that $p_n \approx \int_1^\infty dx /x$ for large $n$). 
+Show that, nevertheless, 
+\[
+\lim _{n\rightarrow \infty} (p_n - p_{n-1}) = 0. 
+\]
+Less: Be mindful of this when testing for convergence in your iterative algorithms! 
+
+\vfill 
+
+\part[5]
+Show that $p_n = 10^{-2^n} $ converges quadratically. 
+\vfill 
+\end{parts} 
+
+\newpage 
+
+%\question
+%In class, we proved that if $g(x)$ maps an interval onto itself, and $|g'(x)| < 1$ in that interval, then $g$ has  exactly one fixed point there. 
+%\begin{parts} 
+%\part[5]
+%Show that the theorem's assumptions are true for $g(x) = 1 + \sqrt{x}$. 
+%\vfill
+%\part[10]
+%Find the unique fixed point. 
+%\vfill
+%\end{parts} 
+
+\question[10]
+Find the unique fixed point of $g(x) = 1 + \sqrt{x}$. 
+
+\vfill 
+\vfill 
+
+%\question[5]
+%Use Horner's method to compute $P(3)$ where 
+%\[
+%P(x) = 2x^3 - 6x^2 + 2x - 1.
+%\]
+%
+%\vfill 
+
+
+\question[5] 
+Find all values of $\alpha$ for which the following system has no solutions. Explain your answer. 
+\begin{eqnarray*} 
+2x  -y + 3z & = & 5 \\
+4y - 4z & = & -4 \\
+(5 + \alpha)z & = & 8 + \alpha 
+\end{eqnarray*} 
+
+\vfill 
+
+\newpage 
+
+\question[10] 
+Use Gaussian Elimination to compute the determinant of 
+\[ 
+A = \left[
+\begin{array}{ccc} 
+1 & 1 & 1 \\
+0 & 1 & 1 \\
+1 & 2 & 1
+\end{array}
+\right] .
+\]
+
+\newpage 
+
+\question[20]
+\label{PLU_question} 
+
+Use partial pivoting to compute a $PLU$ factorization of 
+\[ 
+A = 
+\left[
+\begin{array}{ccc} 
+0 & 1 & 1 \\
+1 & 1 & 1 \\
+-1 & 1 & -1
+\end{array}
+\right] .
+\]
+
+\newpage 
+(You may use this page to complete your solution to Q\ref{PLU_question}.) 
+
+
+\end{questions} 
+
+\end{document}
