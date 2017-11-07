@@ -76,8 +76,8 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |6|11/6|15|7.1|Norms of vectors and matrices
 ||11/8|16|7.2, 9.1|Eigenvalues, Spectral radius
 ||11/10||No class|Veterans’ Day
-|7|11/13|17||Existence and speed of convergence
-||11/15|18|7.3|Jacobi and Gauss-Siedel
+|7|11/13|17|7.3|Jacobi and Gauss-Siedel 
+||11/15|18|7.3|Existence and speed of convergence
 ||11/17|19|7.4|Accelerating convergence
 |8|11/20|20||Applications of Linear Systems
 ||11/22|21|9.1 - 9.3|Orthogonality (Gram Schmidt), Similarity, Power Method
