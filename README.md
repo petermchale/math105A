@@ -74,7 +74,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/1|||Review of previous exams
 ||11/3||1, 2, 6|Midterm Exam
 |6|11/6|15|7.1|Norms of vectors and matrices
-||11/8|16|7.2, 9.1|Spectral radius of a matrix
+||11/8|16|7.2, 9.1|Eigenvalues, Spectral radius
 ||11/10||No class|Veterans’ Day
 |7|11/13|17||Existence and speed of convergence
 ||11/15|18|7.3|Jacobi and Gauss-Siedel
