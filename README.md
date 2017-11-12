@@ -76,7 +76,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |6|11/6|15|7.1|Norms of vectors and matrices
 ||11/8|16|7.2, 9.1|Eigenvalues, Spectral radius
 ||11/10||No class|Veterans’ Day
-|7|11/13|17|7.3|Iterative Methods: Jacobi Method 
+|7|11/13|17|7.3|[Iterative Methods: Jacobi Method](http://nbviewer.jupyter.org/github/petermchale/math105A/blob/master/lectures/Lecture17.ipynb)
 ||11/15|18|7.3|Gauss-Seidel Method; convergence 
 ||11/17|19|7.4|Accelerating convergence
 |8|11/20|20||Applications of Linear Systems
