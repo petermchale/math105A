@@ -80,9 +80,9 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/15|18|7.3|Gauss-Seidel Method; convergence 
 ||11/17|19|7.4|Accelerating convergence
 |8|11/20|20||Applications of Linear Systems
-||11/22|21|9.1 - 9.3|Orthogonality (Gram Schmidt), Similarity, Power Method
+||11/22|21|9.1 - 9.3|Orthogonality (Gram Schmidt)
 ||11/24||No class|Thanksgiving
-|9|11/27|22|9.3|Power method (continued)
+|9|11/27|22|9.3|Power method 
 ||11/29|23|9.5|QR algorithm
 ||12/1|24|9.6|SVD
 |10|12/4|25|9.6|SVD (continued)
