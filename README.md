@@ -83,8 +83,8 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/22|21|9.1|Orthogonality (Gram Schmidt)
 ||11/24||No class|Thanksgiving
 |9|11/27|22|9.3|Power method 
-||11/29|23|9.5|QR algorithm
-||12/1|24|9.6|SVD
+||11/29|23|9.5|QR factorization
+||12/1|24|9.5,.6|QR eigenvalue algorithm, SVD
 |10|12/4|25|9.6|SVD (continued)
 ||12/6|26||Applications of SVD
 ||12/8|27||Review of previous exams
