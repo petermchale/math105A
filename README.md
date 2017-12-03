@@ -42,10 +42,6 @@ run your notebook, then return to the command line, execute
 
 PLEASE BRING USB DRIVE TO LAB TO SAVE YOUR WORK. 
 
-## Acknowledgements 
-
-This course is adapted from [Tom Trogdon's course](https://www.math.uci.edu/~ttrogdon/105A/html/MATH105A.html).
-
 ## Schedule
 In the table below, `Sections` refers to sections of *Numerical Analysis, R.L. Burden and J.D. Faires, 9th Edition*. 
 If you're new to programming, then you might like to consult the 
@@ -89,4 +85,9 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||12/6|26|9.6| SVD (cont) 
 ||12/8|27||Review of previous exams
 |11|12/11||1, 2, 6, 7, 9|Final Exam 1.30pm – 3.30pm
+
+## Acknowledgements
+
+The first half of this course is adapted from [Tom Trogdon's course](https://www.math.uci.edu/~ttrogdon/105A/html/MATH105A.html).
+
 
