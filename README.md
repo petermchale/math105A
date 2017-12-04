@@ -81,8 +81,8 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |9|11/27|22|9.3|Power method 
 ||11/29|23|9.5|QR factorization
 ||12/1|24|9.5|QR factorization (cont); QR eigenvalue algorithm
-|10|12/4|25|9.6|SVD 
-||12/6|26|9.6| SVD (cont) 
+|10|12/4|25|9.6|SVD theory
+||12/6|26|9.6| SVD examples 
 ||12/8|27||Review of previous exams
 |11|12/11||1, 2, 6, 7, 9|Final Exam 1.30pm – 3.30pm
 
